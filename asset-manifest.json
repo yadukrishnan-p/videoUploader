@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videoUploader/static/css/main.a10b5a32.css",
+    "main.js": "/videoUploader/static/js/main.17c0e930.js",
+    "static/js/787.e5028ad4.chunk.js": "/videoUploader/static/js/787.e5028ad4.chunk.js",
+    "index.html": "/videoUploader/index.html",
+    "main.a10b5a32.css.map": "/videoUploader/static/css/main.a10b5a32.css.map",
+    "main.17c0e930.js.map": "/videoUploader/static/js/main.17c0e930.js.map",
+    "787.e5028ad4.chunk.js.map": "/videoUploader/static/js/787.e5028ad4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10b5a32.css",
+    "static/js/main.17c0e930.js"
+  ]
+}
