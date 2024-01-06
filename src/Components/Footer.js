@@ -1,9 +1,9 @@
 import React from 'react'
 import { Row, Col, Button } from 'react-bootstrap'
-import Container from 'react-bootstrap'
+
 import { Facebook, GitHub, Instagram, Linkedin } from 'react-feather'
 import { Link } from 'react-router-dom'
-import FeatherIcon from 'feather-icons-react';
+
 function Footer() {
   return (
     <div>
